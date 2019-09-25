@@ -85,15 +85,15 @@ $row_fill_color:  gtkalpha(currentColor, 0.05);
 
 // Misc colors
 $primary_color:         #3da688;
-$alt_primary_color:     #5C6BC0;
-$progress_color:        #5D7DFB;
+$alt_primary_color:     rgb(92, 192, 150);
+$progress_color:        rgb(93, 251, 154);
 $sidebar_color:         #F5F6FA;
 $accent_color:          $deep_purple_A200;
 $disabled_accent_color: rgba($accent_color, 0.5);
 
-$theme_color_top:    #716ffb;
-$theme_color_middle: #6C6AF2;
-$theme_color_bottom: #4648FB;
+$theme_color_top:    #0a835a;
+$theme_color_middle: rgb(5, 180, 151);
+$theme_color_bottom: rgb(70, 251, 197);
 $theme_image: linear-gradient(to bottom, $theme_color_middle, $theme_color_bottom);
 $header_theme_image: linear-gradient(to bottom, $theme_color_top, $theme_color_middle);
 

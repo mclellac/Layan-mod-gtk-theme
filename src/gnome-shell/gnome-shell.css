@@ -342,12 +342,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .shell-link:hover {
   color: #3da688;
-  background-color: rgba(86, 87, 245, 0.15);
+  background-color: rgba(61, 166, 136, 0.15);
 }
 
 .shell-link:active {
   color: #3da688;
-  background-color: rgba(86, 87, 245, 0.3);
+  background-color: rgba(61, 166, 136, 0.3);
 }
 
 /* Modal Dialogs */
@@ -764,12 +764,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu .popup-menu-item:checked.selected {
-  background-color: #6f70f7;
+  background-color: #5ab39a;
   color: #FFFFFF;
 }
 
 .popup-menu .popup-menu-item:checked:active {
-  background-color: #8989f8;
+  background-color: #77c1ac;
   color: #FFFFFF !important;
 }
 
@@ -884,7 +884,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .osd-window .level {
   height: 4px;
   border-radius: 2px;
-  background-color: rgba(86, 87, 245, 0.3);
+  background-color: rgba(61, 166, 136, 0.3);
   color: rgba(0, 0, 0, 0.75);
   -barlevel-height: 4px;
   -barlevel-background-color: transparent;
@@ -1020,8 +1020,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* Tiled window previews */
 .tile-preview {
-  background-color: rgba(92, 107, 192, 0.3);
-  border: 1px solid #5C6BC0;
+  background-color: rgba(92, 192, 150, 0.3);
+  border: 1px solid #5cc096;
 }
 
 .tile-preview-left.on-primary {
@@ -1113,7 +1113,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel .panel-button .system-status-icon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
   padding: 0 4px;
 }
 
@@ -1487,7 +1487,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .message-icon-bin > StIcon {
   color: rgba(0, 0, 0, 0.75);
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
   -st-icon-style: requested;
   margin: 4px 0px 4px 4px;
 }
@@ -1511,7 +1511,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .message-secondary-bin > StIcon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
 }
 
 .message-title {
@@ -1627,13 +1627,13 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .aggregate-menu .popup-sub-menu .popup-menu-item :first-child:ltr {
   /* 8px spacing + 2*4px padding */
   padding-left: 16px;
-  margin-left: 1.2307692308em;
+  margin-left: 1.23077em;
 }
 
 .aggregate-menu .popup-sub-menu .popup-menu-item :first-child:rtl {
   /* 8px spacing + 2*4px padding */
   padding-right: 16px;
-  margin-right: 1.2307692308em;
+  margin-right: 1.23077em;
 }
 
 .system-menu-action {
@@ -1681,7 +1681,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu-icon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
 }
 
 .window-close {
@@ -2256,7 +2256,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .notification-banner .secondary-icon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
 }
 
 .notification-banner .notification-actions {
@@ -2307,7 +2307,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .secondary-icon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
 }
 
 .chat-body {
@@ -2491,12 +2491,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .keyboard-key.enter-key:focus, .keyboard-key.enter-key:hover {
   color: #FFFFFF;
-  background-color: #6e6ff6;
+  background-color: #44b997;
 }
 
 .keyboard-key.enter-key:checked, .keyboard-key.enter-key:active {
   color: #FFFFFF;
-  background-color: #2627f2;
+  background-color: #2f8169;
 }
 
 .keyboard-key.shift-key-lowercase {
@@ -2595,7 +2595,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .candidate-page-button-icon {
-  icon-size: 1.2307692308em;
+  icon-size: 1.23077em;
 }
 
 /* Auth Dialogs & Screen Shield */

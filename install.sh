@@ -14,7 +14,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Layan
+THEME_NAME=Layan-mod
 COLOR_VARIANTS=('' '-light' '-dark')
 
 usage() {

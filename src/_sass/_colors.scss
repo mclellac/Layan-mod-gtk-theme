@@ -84,16 +84,16 @@ $semi_fill_color: gtkalpha(currentColor, $lower_opacity / 2);
 $row_fill_color:  gtkalpha(currentColor, 0.05);
 
 // Misc colors
-$primary_color:         #3da688;
-$alt_primary_color:     rgb(92, 192, 150);
-$progress_color:        rgb(93, 251, 154);
+$primary_color:         #246452;
+$alt_primary_color:     rgb(39, 110, 81);
+$progress_color:        rgb(50, 110, 95);
 $sidebar_color:         #F5F6FA;
 $accent_color:          $deep_purple_A200;
 $disabled_accent_color: rgba($accent_color, 0.5);
 
 $theme_color_top:    #0a835a;
-$theme_color_middle: rgb(5, 180, 151);
-$theme_color_bottom: rgb(70, 251, 197);
+$theme_color_middle: rgb(34, 134, 118);
+$theme_color_bottom: rgb(32, 124, 96);
 $theme_image: linear-gradient(to bottom, $theme_color_middle, $theme_color_bottom);
 $header_theme_image: linear-gradient(to bottom, $theme_color_top, $theme_color_middle);
 

@@ -108,13 +108,13 @@ $suggested_color:   $accent_color;
 $destructive_color: $red_A200;
 
 $info_bg_color:     $green_400;
-$question_bg_color: $blue_400;
+$question_bg_color: $teal_600;
 $warning_bg_color:  $orange_400;
 $error_bg_color:    $red_400;
 
-$suggested_image: linear-gradient(to bottom, $light_blue_300, $blue_400);
+$suggested_image: linear-gradient(to bottom, $teal_300, $teal_600);
 $destructive_image: linear-gradient(to bottom, $red_400, $red_A200);
-$progress_image: linear-gradient(to left, $purple_300, $deep_purple_400);
+$progress_image: linear-gradient(to left, $teal_400, $teal_600);
 
 $border_color:             if($variant == 'light', rgba($black, 0.08), rgba($white, 0.08));
 $solid_border_color:       if($variant =='light', darken($bg_color, 8%), lighten($bg_color, 8%));

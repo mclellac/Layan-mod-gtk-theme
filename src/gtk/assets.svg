@@ -14,7 +14,7 @@
    version="1.1"
    id="svg99"
    sodipodi:docname="assets.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata101">
     <rdf:RDF>
@@ -32,12 +32,12 @@
      inkscape:zoom="3.0405592"
      inkscape:cx="158.9465"
      inkscape:cy="135.66156"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1020"
+     inkscape:window-x="65"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="dark">
+     inkscape:current-layer="svg99">
     <inkscape:grid
        empspacing="4"
        id="grid2" />
@@ -299,8 +299,7 @@
        transform="translate(8 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-slider"
-       style="fill:#044d4d;fill-opacity:1" />
+       id="scale-slider" />
     <use
        xlink:href="#base-scale-slider"
        transform="translate(8 40)"
@@ -312,8 +311,7 @@
        transform="translate(40 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-horz-marks-before-slider"
-       style="fill:#044d4d;fill-opacity:1" />
+       id="scale-horz-marks-before-slider" />
     <use
        xlink:href="#base-scale-horz-marks-before-slider"
        transform="translate(40 40)"
@@ -325,8 +323,7 @@
        transform="translate(72 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-horz-marks-after-slider"
-       style="fill:#044d4d;fill-opacity:1" />
+       id="scale-horz-marks-after-slider" />
     <use
        xlink:href="#base-scale-horz-marks-after-slider"
        transform="translate(72 40)"
@@ -338,8 +335,7 @@
        transform="translate(104 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-vert-marks-before-slider"
-       style="fill:#044d4d;fill-opacity:1" />
+       id="scale-vert-marks-before-slider" />
     <use
        xlink:href="#base-scale-vert-marks-before-slider"
        transform="translate(104 40)"
@@ -351,8 +347,7 @@
        transform="translate(136 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-vert-marks-after-slider"
-       style="fill:#044d4d;fill-opacity:1" />
+       id="scale-vert-marks-after-slider" />
     <use
        xlink:href="#base-scale-vert-marks-after-slider"
        transform="translate(136 40)"
@@ -367,8 +362,7 @@
     <use
        xlink:href="#base-selectionmode-checkbox-checked"
        transform="translate(56 72)"
-       id="selectionmode-checkbox-checked"
-       style="fill:#20dfdf;fill-opacity:0.67509025" />
+       id="selectionmode-checkbox-checked" />
   </g>
   <g
      id="dark"
@@ -384,8 +378,7 @@
        transform="translate(8 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-slider-dark"
-       style="fill:#06545a;fill-opacity:1" />
+       id="scale-slider-dark" />
     <use
        xlink:href="#base-scale-slider"
        transform="translate(8 40)"
@@ -397,8 +390,7 @@
        transform="translate(40 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-horz-marks-before-slider-dark"
-       style="fill:#06545a;fill-opacity:1" />
+       id="scale-horz-marks-before-slider-dark" />
     <use
        xlink:href="#base-scale-horz-marks-before-slider"
        transform="translate(40 40)"
@@ -410,8 +402,7 @@
        transform="translate(72 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-horz-marks-after-slider-dark"
-       style="fill:#06545a;fill-opacity:1" />
+       id="scale-horz-marks-after-slider-dark" />
     <use
        xlink:href="#base-scale-horz-marks-after-slider"
        transform="translate(72 40)"
@@ -423,8 +414,7 @@
        transform="translate(104 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-vert-marks-before-slider-dark"
-       style="fill:#06545a;fill-opacity:1" />
+       id="scale-vert-marks-before-slider-dark" />
     <use
        xlink:href="#base-scale-vert-marks-before-slider"
        transform="translate(104 40)"
@@ -436,8 +426,7 @@
        transform="translate(136 8)"
        fill="url(#color-accent)"
        stroke="none"
-       id="scale-vert-marks-after-slider-dark"
-       style="fill:#06545a;fill-opacity:1" />
+       id="scale-vert-marks-after-slider-dark" />
     <use
        xlink:href="#base-scale-vert-marks-after-slider"
        transform="translate(136 40)"
@@ -452,8 +441,7 @@
     <use
        xlink:href="#base-selectionmode-checkbox-checked"
        transform="translate(56 72)"
-       id="selectionmode-checkbox-checked-dark"
-       style="fill:#008080" />
+       id="selectionmode-checkbox-checked-dark" />
   </g>
   <g
      transform="matrix(3.7795275,0,0,3.7795275,141.7072,-1021.8125)"

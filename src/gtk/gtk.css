@@ -805,7 +805,7 @@ button.osd:disabled {
 button.suggested-action {
   background-color: #00897B;
   color: #FFFFFF;
-  background-image: linear-gradient(to bottom, #4FC3F7, #42A5F5);
+  background-image: linear-gradient(to bottom, #4DB6AC, #00897B);
   background-size: auto auto;
   background-position: center center;
   background-repeat: no-repeat;
@@ -4175,7 +4175,7 @@ progressbar trough {
 progressbar progress {
   border-radius: 9999px;
   background-color: #326e5f;
-  background-image: linear-gradient(to left, #BA68C8, #7E57C2);
+  background-image: linear-gradient(to left, #26A69A, #00897B);
   background-size: auto auto;
   background-position: center center;
   background-repeat: no-repeat;
@@ -4838,7 +4838,7 @@ infobar.info {
 }
 
 infobar.question {
-  background-color: #42A5F5;
+  background-color: #00897B;
 }
 
 infobar.warning {
@@ -4959,7 +4959,7 @@ colorswatch#add-color-button:only-child {
 }
 
 colorswatch#add-color-button overlay {
-  background-image: linear-gradient(to right, #EF5350 25%, #FFA726 25%, #FFA726 50%, #66BB6A 50%, #66BB6A 75%, #42A5F5 75%);
+  background-image: linear-gradient(to right, #EF5350 25%, #FFA726 25%, #FFA726 50%, #66BB6A 50%, #66BB6A 75%, #00897B 75%);
 }
 
 colorswatch:disabled {
